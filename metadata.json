@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI E-Book Reader",
+  "description": "An advanced e-book reader application that supports various formats like EPUB, MOBI, and PDF, with integrated AI-powered Text-to-Speech functionality using the Gemini API.",
+  "requestFramePermissions": []
+}
